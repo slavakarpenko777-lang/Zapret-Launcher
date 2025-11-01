@@ -1,0 +1,5 @@
+var githubConfig = {
+    repoOwner: "slavakarpenko777-lang",
+    repoName: "Zapret-Launcher", 
+    currentVersion: "2.8"
+};
